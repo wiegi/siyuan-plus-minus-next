@@ -1,0 +1,25 @@
+{
+  "name": "siyuan-plus-minus-next",
+  "author": "wiegi",
+  "url": "https://github.com/wiegi/siyuan-plus-minus-next",
+  "version": "0.1.0",
+  "minAppVersion": "3.1.0",
+  "backends": ["all"],
+  "frontends": ["all"],
+  "displayName": {
+    "default": "Plus Minus Next",
+    "en_US": "Plus Minus Next"
+  },
+  "description": {
+    "default": "A simple three-column Plus / Minus / Next reflection board.",
+    "en_US": "A simple three-column Plus / Minus / Next reflection board."
+  },
+  "readme": {
+    "default": "README.md",
+    "en_US": "README.md"
+  },
+  "keywords": ["reflection", "retrospective", "journaling", "plus minus next", "weekly review"],
+  "funding": {
+    "custom": ["https://www.buymeacoffee.com/wiegi"]
+  }
+}
