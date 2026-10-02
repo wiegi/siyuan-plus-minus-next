@@ -2,7 +2,7 @@
   "name": "siyuan-plus-minus-next",
   "author": "wiegi",
   "url": "https://github.com/wiegi/siyuan-plus-minus-next",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minAppVersion": "3.1.0",
   "backends": ["all"],
   "frontends": ["all"],

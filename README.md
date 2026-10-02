@@ -11,6 +11,10 @@ The plugin presents these prompts from left to right while keeping every entry
 as a normal SiYuan block. Sibling of
 [logseq-plus-minus-next](https://github.com/wiegi/logseq-plus-minus-next).
 
+## Preview
+
+<img src="preview.png" alt="Plus Minus Next reflection board preview" width="100%" />
+
 ## Usage
 
 1. In an empty block, type `/pmn` (or `/plus minus next`).

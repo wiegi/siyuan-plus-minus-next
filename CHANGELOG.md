@@ -7,6 +7,13 @@ and the project uses [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [0.1.1]
+
+### Changed
+
+- Added a project preview image to the README so the plugin's Plus / Minus /
+  Next board is visible before install.
+
 ## [0.1.0]
 
 ### Added
